@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://brxye.github.io/FUN/sitemap.FUN.gz
